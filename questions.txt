@@ -1,0 +1,16 @@
+1. What's your favourite front end programming framework and why?
+I have really liked Next.JS lately, it has been really simple to set up and ran pretty much out of the box!
+
+2. Which cloud service provider is your favourite and why?
+I have always used AWS, they have such a vast array of services and products at such a tiny cost. I do prefer Firebase for pushes and realtime DB though as their setup is a lot eaiser. AWS's documentation can be very opaque as it is obviously automatically generated.
+
+3. What is your preferred approach to testing software?
+I do try and stick to TDD, especially for back end logic (you will notice I haven't tested my tech test as I did not ahve the time and the majority of my implementation is 3rd part services, so I would have just been testing a load of mocks)
+
+4. Please provide your views and any relevant experience you have with devops, including web and mobile CI/CD:
+I have worked on CI pipelines using GitHub actions most recently. I built scripts for pushing over-the-air updates for our expo mobile app. I have also written AWS CDK scripts to build serverless applications (using Lambda, API gateway, IAM etc)
+
+5. What are the three most important things to you about your next project or role you undertake?
+a. Tech-for-good: I would rather work on projects/products that are trying to make the world a better place (no gambling/crypto)
+b. Scope for growth: I would rather be in a small team that is looking to expand than a large organisation, and on a green-field project rather than an established products
+c. Good working culture: one of my most proud achievements from my current role was building out a team of awesome people and really enjoying the work we do and the team we do it with.
