@@ -1,8 +1,8 @@
-## Else R&D Developer Challenge
+## Developer Challenge
 
 So we can get to know you better and understand your technical skills in more detail, we'd like to see how you tackle new challenges.
 
-*Note: This task should take approximately 3 - 4 hours. If you're finding it's taking longer than that, please feel free to pause where you are and submit what you have, and add some notes to document where you got to and indicate what your next steps would be.*
+_Note: This task should take approximately 3 - 4 hours. If you're finding it's taking longer than that, please feel free to pause where you are and submit what you have, and add some notes to document where you got to and indicate what your next steps would be._
 
 ### Preparation
 
@@ -33,9 +33,9 @@ As a priority, they need to de-risk the technical side of the idea by building a
 And good news - they've asked you to help!
 
 ### Requirements:
- 
+
 The must-have feature requirements of the app are:
- 
+
 1. To allow at least 2 people to connect to a live video call and have a conversation;
 2. For the call to take place within a custom web OR mobile app, such that the experience surrounding the call _could_ be completely customised (the actual level of customisation is up to you, but the important point is that it could be fully customised);
 3. All participants should be able to:
@@ -48,12 +48,12 @@ The must-have feature requirements of the app are:
 2. Create a `src` folder within the repo to contain your new code.
 
 ### Task 1: Building the app:
- 
+
 Create a simple app to fulfil the requirements described above within your forked repo.
 
 ### Task 2: A few questions:
 
-Please update the `questions.txt` file with your answers to the questions. 
+Please update the `questions.txt` file with your answers to the questions.
 
 ### Wrapping things up
 
@@ -71,8 +71,8 @@ If you can provide a link to a demo of your app to go along with your code, then
 ### For bonus points:
 
 If you find the task above easy, then feel free to improve your app. Here are some ideas:
- 
-- Add a timer to the call so participants know how long they've been on it; 
+
+- Add a timer to the call so participants know how long they've been on it;
 - Allow participants to share their screen during the call;
 - Allow participants to contribute to a live chat / messaging stream during the call.
 
